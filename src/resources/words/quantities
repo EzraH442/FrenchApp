@@ -1,0 +1,13 @@
+un kilo:a kilogram:p
+une douzaine:a dozen:p
+un litre:a liter:p
+un paquet:a pack, package:p
+une boîte:a box, can:p
+une bouteille:a bottle:p
+une livre:a pound:p
+un pot:a jar:p
+un morceau:a piece:p
+une tranche:a slice:p
+un sac:a bag:p
+*quanitity* + de + *noun*:used to express quantity:p
+//IDEA: use asterisks ** to automatically generate phrases so like *pronoun* + *verb* -> I/you/we/etc + run/eat/drink/buy/etc.

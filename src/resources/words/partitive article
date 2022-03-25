@@ -1,0 +1,33 @@
+un poulet:a chicken:p
+un melon:a melon:p
+une salade:a salad:p
+une tarte:a tart:p
+du poulet:some chicken:p
+du melon:some melon:p
+de la salade:some salad:p
+de la tarte:some tart:p
+un:a (m):p
+une:a (f):p
+des:a [p]:p
+du:some (m):p
+de la:some (f):p
+le:the (m):p
+la:the (f):p
+les:the [p]:p
+les:the (p):p
+Voici un pain:Here is a bread:p
+Voici du pain:Here is some bread:p
+Voici le pain:Here is the bread:p
+J'aime le pain:I like bread:p
+Je préfère la glace:I prefer ice cream:p
+Il y a du lait et la glace dans le réfrigérateur:There is milk and ice cream in the refrigerator:p
+Le lait et la glace sont dans le réfrigérateur:The milk and ice cream are in the refrigerator:p
+Voilà de la confiture:There is some jam:p
+Voici:Here is:p
+Voilà:There is:p
+Je ne veux pas de pain:I don't want any bread:p
+Je ne veux pas de tarte:I don't want any pie:p
+Je ne bois jamais de café:I never drink any coffee:p
+Il n'y a plus d'eau minérale:There is no more mineral water:p
+As-tu de l'argent?:Do you have some money?:p
+Cet arsite a du talent:This artist has some talent:p

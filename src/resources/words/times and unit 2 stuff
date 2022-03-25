@@ -1,0 +1,73 @@
+hier:yesterday:p
+samedi dernier:last saturday:p
+avant:before:p
+après:after:p
+pendant:during:p
+d'abord:first:p
+ensuite:then:p
+finalement:finally:p
+enfin:at last:p
+aujourd'hui:today:p
+ce metin:this morning:p
+cet après-midi:this afternoon:p
+ce soir:this evening:p
+ce week-end:this weekend:p
+cette semaine:this weekend:p
+ce mois-ci:this month:p
+cet été:this summer:p
+cette année:this year:p
+hier matin:yesterday morning:p
+hier après-midi:yesterday afternoon:p
+hier soir:yesterday evening:p
+le week-end dernier:last weekend:p
+la semaine dernière:last:p
+le mois dernier:last month:p
+l'été dernier:last summer:p
+l'année dernière:last year:p
+demain:tomorrow:p
+demain matin:tomorrow morning:p
+demain après-midi:tomorrow afternoon:p
+demain soir:tommorow evening:p
+le week-end prochain:next weekend:p
+la semaine prochaine:next weekend:p
+le mois prochain:next month:p
+l'été prochain:next summer:p
+l'année prochaine:next year:p
+maintenant:now:p
+//lesson 5
+//en metro
+un_billet:a_subway_ticket:n
+un_ticket:a_subway_ticket:n
+monter:to_get_on:n
+descendre:to_get_off:n
+//à la compagne (in the countryside):n
+un_arbre:a_tree:n
+la_campagne:the_country(side):n
+un_champ:a_field:n
+une _ferme:a_farm:n
+une_feuille:a_leaf:n
+une_fleur:a_flower:n
+une_forêt:a_forest:n
+un_lac:a_lake:n
+une_plante:a_plant:n
+une_prarie:a_prarie:n
+une_riviêre:a_river:n
+un_bain_de_soleil:a_sunbath:n
+//les animaux:n
+un_canard:a_duck:n
+un cheval:a_horse:n
+un_cochon:a_pig:n
+un_écureuil:a_squirrel:n
+un_lapin:a_rabbit:n
+un_oiseau:a_bird:n
+un_poisson:a_fish:n
+une_poule:a_hen:n
+une_vache:a_cow:n
+//quelqu'un
+quelqu'un:sommebody, someone:p
+ne...personne:nobody, not anyone:p
+quelque chose:something:p
+ne...rien :nothing, not anything:p
+//-------------------------------------pp
+ne avoir past participle personne:not anyone:p
+ne avoir rien past participle:not anything:p

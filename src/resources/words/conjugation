@@ -1,0 +1,197 @@
+/*
+//-------------------------------avoir--------------------------
+J'ai:I_have:p
+Tu_as:You_have:p
+Il_a:He_has:p
+Elle_a:She_has:p
+Nous_avons:We_have:p
+Vous_avez:Yous_have:p
+Ils_ont:They_(m)_have:p
+Elles_ont:They_(f)_have:p
+avoir eu:had:p
+//-----------------------------------------aller ----------------------------------------------
+Je_vais:I_go:p
+Tu_vas:You_go:p
+Il_va:He_gous:p
+Elle_va:She_goes:p
+Nous_allons:We_go:p
+Vous_allez:Yous_go:p
+Ils_vont:They_(m)_go:p
+Elles_vont:They_(f)_go:p
+//-----------------------------------------aller passe compose ----------------------------------------------
+Je suis allé:I (m) went:p
+Je suis allée:I (f) went:p
+Tu es allé:You (m) went:p
+Tu es allée:You (f) went:p
+Nous sommes allés:We (m) went:p
+Nous sommes allées:We (f) went:p
+Vous êtes allés:Yous (m) went:p
+Vous êtes allées:Yous (f) went:p
+Ils sont allés:They (m) went:p
+Elles sont allées:They (f) went:p
+être allé: go (passe-compose):p
+//-----------------------------------------faire ---------------------------------------------------------
+Je_fais:I_do:p
+Tu_fais:You_do:p
+Il_fait:He_does:p
+Elle_fait:She_does:p
+Nous_faisons:We_do:p
+Vous_faites:Yous_do:p
+Ils_font:They_(m)_do:p
+Elles_font:They_(f)_do:p
+avoir fait: did:p
+//-----------------------------------------venir--------------------------
+Je_viens:I_come:p
+Tu_viens:You_come:p
+Il_vient:He_comes:p
+Elle_vient:She_comes:p
+Nous_venons:We_come:p
+Vous_venez:Yous_come:p
+Ils_viennent:They_(m)_come:p
+Elles_viennent:They_(f)_come:p
+//-----------------------------------------etre----------------------------
+Je_suis:I_am:p
+Tu_es:You_are:p
+Il_est:He_is:p
+Elle_est:She_is:p
+Nous_sommes:We_are:p
+Vous_etes:Yous_are:p
+Ils_sont:They_(m)_are:p
+Elles_sont:They_(f)_are:p
+//-----------------------------------------nettoyer---------------------
+Je_nettoie:I clean:v
+Tu_nettoies:You clean:v
+Il_nettoie:He cleans:v
+Elle_nettoie:She cleans:v
+Nous_nettoyons:We clean:v
+Vous_nettoyez:Yous clean:v
+Ils_nettoient:They (m) clean:v
+Elles_nettoient:They (f) clean:v
+//-----------------------------------------mettre-------------------
+Je_mets:I put on:v
+Tu_mets:You put on:v
+Il_met:He puts on:v
+Elle_met:She puts on:v
+Nous_mettons:We put on:v
+Vous_mettez:Yous put on:v
+Ils_mettent:They (m) put on:v
+Elles_mettent:They (f) put on:v
+avoir mis:put on (past):p
+//-----------------------------------------prendre---------------------
+Je_prends:I take:v
+Tu_prends:You take:v
+Il_prend:He takes:v
+Elle_prend:She takes:v
+Nous_prenons:We take:v
+Vous_prenez:Yous take:v
+Ils_prennent:They (m) take:v
+Elles_prennent:They (f) take:v
+avoir pris: took (past):p
+//-----------------------------------------voir---------------------------------
+Je vois:I see:p
+Tu vois:You see:p
+Il voit:He sees:p
+Elle voit:She sees:p
+Nous voyons:We see:p
+Vous voyez:Yous see:p
+Elles voient:They (f) see:p
+Ils voient:They (m) see:p
+avoir vu:saw:p
+//-----------------------------------------sortir
+Je sors:I go out:p
+Tu sors:You go out:p
+Il sort:He goes out:p
+Elle sort:She goes out:p
+Nous sortons:We go out:p
+Vous sortez:Yous go out:p
+Ils sortent:They (m) go out:p
+Ells sortent:They (f) go out:p
+être sorti(e)(s): went out:p
+//-----------------------------------------partir
+Je pars:I leave:p
+Tu pars:You leave:p
+Il part:He leaves:p
+Elle part:She leaves:p
+Nous partons:We leave:p
+Vous partez:Yous leave:p
+Ils partent:They (m) leave:p
+Elles parent:They (f) leave:p
+être parti(e)(s):left:p
+*/
+//-----------------------------------------vouloir
+vouloir:to want:p
+Je veux:I want:p
+Tu veux:You want:p
+Il veut:He wants:p
+Elle veut:She wants:p
+Nous voulons:We want:p
+Vous voulez:Yous want:p
+Ils veulent:They (m) want:p
+Elles veulent:They (f) want:p
+avoir voulu:wanted:p
+//-----------------------------------------pouvoir
+pouvoir:to be able to:p
+Je peux:I can:p
+Tu peux:You can:p
+Il peut:He can:p
+Elle peut:She can:p
+Nous pouvons:We can:p
+Vous pouvez:Yous can:p
+Ils peuvent:They (m) can:p
+Elles peuvent:They (f) can:p
+avoir pu:could:p
+//-----------------------------------------devoir-----------------------------------------
+devoir:to have to:p
+Je dois:I must:p
+Tu dois:You must:p
+Il doit:He must:p
+Elle doit:She must:p
+Nous devons:We must:p
+Vous devez:Yous must:p
+Ils doivent:They (m) must:p
+Elles doivent:They (f) must:p
+avoir dû:had to:p
+//-----------------------------------------boire-----------------------------------------
+boire:to drink:p
+Je bois:I drink:p
+Tu bois:You drink:p
+Il boit:He drinks:p
+Elle voit:She drinks:p
+Nous buvons:We drink:p
+Vous bouvez:Yous drink:p
+Ils boivent:They (m) drink:p
+Elles boivent:They (f) drink:p
+avoir bu:drank:p
+//-----------------------------------------acheter-----------------------------------------
+acheter:to buy:p
+J'achéte:I buy:p
+Tu achétes:You buy:p
+Il achéte:He buys:p
+Elle achéte:She buys:p
+Nous achetons:We buy:p
+Vous achetez:Yous buy:p
+Ils achétent:They (m) buy:p
+Elles achétent:They (f) buy:p
+avoir acheté:bought:p
+//-----------------------------------------préférer-----------------------------------------
+préférer:to prefer:p
+Je préfère:I prefer:p
+Tu préfères:You prefer:p
+Il préfère:He prefers:p
+Elle préfère:She prefers:p
+Nous préférons:We prefer:p
+Vous préférez:Yous prefer:p
+Ils préférent:They (m) prefer:p
+Elles préfèrent:They (f) prefer:p
+avoir préféré:preferred:p
+//-----------------------------------------payer-----------------------------------------
+payer:to pay:p
+Je paie:I pay:p
+TU paies:You pay:p
+Il paie:He pays:p
+Elle paie:She pays:p
+Nous payons:We pay:p
+Vous payez:Yous pay:p
+Ils paient:They (m) pay:p
+Elles paient:They (f) pay:p
+avoir payé:payed:p
